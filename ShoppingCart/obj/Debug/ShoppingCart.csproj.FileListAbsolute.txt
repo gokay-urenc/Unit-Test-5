@@ -1,0 +1,15 @@
+D:\Applications\C#\Unit Testing\Unit_Test_2\ShoppingCart\bin\Debug\ShoppingCart.dll
+D:\Applications\C#\Unit Testing\Unit_Test_2\ShoppingCart\bin\Debug\ShoppingCart.pdb
+D:\Applications\C#\Unit Testing\Unit_Test_2\ShoppingCart\obj\Debug\ShoppingCart.csprojAssemblyReference.cache
+D:\Applications\C#\Unit Testing\Unit_Test_2\ShoppingCart\obj\Debug\ShoppingCart.dll
+D:\Applications\C#\Unit Testing\Unit_Test_2\ShoppingCart\obj\Debug\ShoppingCart.pdb
+D:\Applications\C#\Unit Testing\Unit_Test_3\ShoppingCart\bin\Debug\ShoppingCart.dll
+D:\Applications\C#\Unit Testing\Unit_Test_3\ShoppingCart\bin\Debug\ShoppingCart.pdb
+D:\Applications\C#\Unit Testing\Unit_Test_3\ShoppingCart\obj\Debug\ShoppingCart.csprojAssemblyReference.cache
+D:\Applications\C#\Unit Testing\Unit_Test_3\ShoppingCart\obj\Debug\ShoppingCart.dll
+D:\Applications\C#\Unit Testing\Unit_Test_3\ShoppingCart\obj\Debug\ShoppingCart.pdb
+D:\Applications\C#\Unit Testing\Unit_Test_5\ShoppingCart\bin\Debug\ShoppingCart.dll
+D:\Applications\C#\Unit Testing\Unit_Test_5\ShoppingCart\bin\Debug\ShoppingCart.pdb
+D:\Applications\C#\Unit Testing\Unit_Test_5\ShoppingCart\obj\Debug\ShoppingCart.csprojAssemblyReference.cache
+D:\Applications\C#\Unit Testing\Unit_Test_5\ShoppingCart\obj\Debug\ShoppingCart.dll
+D:\Applications\C#\Unit Testing\Unit_Test_5\ShoppingCart\obj\Debug\ShoppingCart.pdb
